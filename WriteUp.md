@@ -57,7 +57,7 @@ Starting migrations...
 
    Deploying 'FarmerRole'
    ----------------------
-   > transaction hash:    0x5a6b8632a45b51322cbc2944b206129c3728c7a133273cd54a67dcf3f41d319b
+   > transaction hash:    0x5a6b8632a45b51322cbc2944b206129c3728c7a133273cd54a67dcf3f41d319b \n
    > Blocks: 0            Seconds: 12
    > contract address:    0x172C69D37Edf17De31BEB8C95427b61c9753cF4F
    > block number:        10785636
