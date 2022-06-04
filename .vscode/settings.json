@@ -1,0 +1,5 @@
+{
+    "solidity.compileUsingRemoteVersion": "v0.4.24+commit.e67f0147",
+    "solidity.compileUsingLocalVersion": "/Users/buuthongtran/Downloads/SupplyChainTracking/soljson-v0.5.16+commit.9c3226ce.js",
+    "solidity.defaultCompiler": "localFile"
+}
