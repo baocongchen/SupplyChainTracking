@@ -3,8 +3,8 @@
 <h2>Abstract</h2>
 Built on the Ethereum blockchain, the tracking system gives all stakeholders the ability to track the entire supply chain of a coffee product.
 Since the tracking data cannot be tampered, the tracking system helps solve the trust issue that often arise in a supply chain process.
-The smart contract is deployed to Rinkeby Testnet Network and can be accessed via `https://rinkeby.etherscan.io/address/0xf223868ed41cf72AE6fD1d1B09A721844Abb73Bf`
-
+The smart contract is deployed to Rinkeby Testnet Network and can be accessed via https://rinkeby.etherscan.io/address/0xf223868ed41cf72AE6fD1d1B09A721844Abb73Bf
+<br/>
 The following libraries have been used to develop, build, test, and deploy the project
 - Truffle v5.3.4 (core: 5.3.4) Ethereum dApp development framework used for developing, testing, and deploying smart contracts
 - Solidity v0.5.16 (solc-js): a programming language for writing smart contracts on the Ethereum blockchain
@@ -15,13 +15,13 @@ The following libraries have been used to develop, build, test, and deploy the p
 
 <h2> Architecture </h2>
 The following UML diagrams demonstrate the supply chain transaction procedure from the time a farmer harvests coffee until the time a consumer purchases the product.
-
+<br/>
 ![write up](images/activity_diagram.jpeg)
-
+<br/>
 ![write up](images/sequence_diagram.jpeg)
-
+<br/>
 ![write up](images/state_diagram.jpeg)
-
+<br/>
 ![write up](images/data_model.jpeg)
 
 
