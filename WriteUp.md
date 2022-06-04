@@ -16,6 +16,8 @@ The following libraries have been used to develop, build, test, and deploy the p
 - Hdwallet-provider v2.0.8: A HD Wallet-enabled Web3 provider, used to sign transactions for addresses derived from a 12 or 24 word mnemonic
 - Lite-server v2.4.0: Lightweight development node server for serving the dApp
 
+![write up](images/supplychaindapp.png)
+
 <h2> Architecture </h2>
 The following UML diagrams demonstrate the supply chain transaction procedure from the time a farmer harvests coffee until the time a consumer purchases the product.
 
